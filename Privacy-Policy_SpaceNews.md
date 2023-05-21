@@ -7,6 +7,13 @@ sosyolok built the Space News as a free app. This SERVICE is provided by sosyolo
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
+
+The news content provided in this mobile application is for general informational purposes only. There is no guarantee of accuracy, completeness, or timeliness of these contents. Users should use this content at their own risk and discretion and take necessary precautions.
+This mobile application may contain links redirecting to other sources. These links are provided for informational purposes, and we have no control over the content of the linked sources. Therefore, we recommend reading the privacy policies and terms of use of the linked sources.
+The application content does not substitute for legal, medical, or professional advice. It is strongly advised to consult your independent advisor for expert advice on any subject. The information provided in the application emphasizes the need to consult your legal advisor before making decisions regarding legal matters.
+We are not liable for any direct or indirect damages or losses that may arise from using the application. This disclaimer statement binds anyone using the application.
+This disclaimer statement may be modified at any time, and the updated version will be applicable.
+
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
