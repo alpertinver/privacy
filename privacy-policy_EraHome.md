@@ -37,5 +37,5 @@ We may update our Privacy Policy from time to time. Therefore, you are advised t
 Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
-Email: sosyolok.alpertinver@email.com
+Email: sosyolok.alpertinver@gmail.com
 
