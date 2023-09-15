@@ -28,6 +28,6 @@ By playing this game, you are considered to have accepted this privacy policy.
 Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
-Email: sosyolok.alpertinver@email.com
+Email: sosyolok.alpertinver@gmail.com
 
 Last updated: 09.15.2023
