@@ -1,2 +1,2 @@
 # privacy
-My apps privay readme documents
+My apps privacy readme documents
